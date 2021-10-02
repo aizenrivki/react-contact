@@ -1,0 +1,250 @@
+[
+  {
+    "_id": "5d35a6e4912582c23b684694",
+    "index": 0,
+    "isActive": false,
+    "balance": "$1,093.31",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "eyeColor": "brown",
+    "name": "Santana Emerson",
+    "gender": "male",
+    "company": "JIMBIES",
+    "email": "santanaemerson@jimbies.com",
+    "phone": "+1 (903) 419-2523",
+    "address": "259 Meserole Avenue, Chesterfield, Kentucky, 1501",
+    "birthday": "2018-07-10T11:43:13 -03:00",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Mccullough Salinas"
+      },
+      {
+        "id": 1,
+        "name": "Alexis Meyers"
+      },
+      {
+        "id": 2,
+        "name": "Bridgett Hall"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "5d35a6e473ba203bc8740c16",
+    "index": 1,
+    "isActive": true,
+    "balance": "$3,378.85",
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "eyeColor": "blue",
+    "name": "Adele Little",
+    "gender": "female",
+    "company": "ENERSAVE",
+    "email": "adelelittle@enersave.com",
+    "phone": "+1 (992) 550-3123",
+    "address": "481 Ruby Street, Nadine, Alaska, 1826",
+    "birthday": "2017-05-11T05:00:17 -03:00",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Wilkerson Glover"
+      },
+      {
+        "id": 1,
+        "name": "Glass Contreras"
+      },
+      {
+        "id": 2,
+        "name": "Melva Slater"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5d35a6e40f89d1622e1d5399",
+    "index": 2,
+    "isActive": false,
+    "balance": "$3,656.71",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "eyeColor": "green",
+    "name": "Ortega Spears",
+    "gender": "male",
+    "company": "NIPAZ",
+    "email": "ortegaspears@nipaz.com",
+    "phone": "+1 (917) 429-2686",
+    "address": "750 Sedgwick Place, Axis, Connecticut, 6100",
+    "birthday": "2016-07-14T07:04:12 -03:00",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Cathleen Pennington"
+      },
+      {
+        "id": 1,
+        "name": "Desiree Burris"
+      },
+      {
+        "id": 2,
+        "name": "Manning Underwood"
+      }
+    ],
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5d35a6e4cd8a37d29e2f4a5a",
+    "index": 3,
+    "isActive": false,
+    "balance": "$1,097.75",
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "eyeColor": "blue",
+    "name": "Ola Terry",
+    "gender": "female",
+    "company": "COMTRACT",
+    "email": "olaterry@comtract.com",
+    "phone": "+1 (967) 504-2441",
+    "address": "875 Ebony Court, Glidden, Marshall Islands, 5084",
+    "birthday": "2014-02-27T08:26:03 -02:00",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Forbes Bauer"
+      },
+      {
+        "id": 1,
+        "name": "Floyd Sosa"
+      },
+      {
+        "id": 2,
+        "name": "Jamie Campos"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "5d35a6e42dcadec8e8bfc029",
+    "index": 4,
+    "isActive": false,
+    "balance": "$1,367.13",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "eyeColor": "brown",
+    "name": "Ofelia Reese",
+    "gender": "female",
+    "company": "KLUGGER",
+    "email": "ofeliareese@klugger.com",
+    "phone": "+1 (957) 419-3052",
+    "address": "502 Williams Court, Woodlake, Kansas, 3559",
+    "birthday": "2014-01-30T12:06:14 -02:00",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Bradford Waters"
+      },
+      {
+        "id": 1,
+        "name": "Steele Christensen"
+      },
+      {
+        "id": 2,
+        "name": "Fulton Hewitt"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5d35a6e4bb572debfa866e37",
+    "index": 5,
+    "isActive": false,
+    "balance": "$2,238.81",
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "eyeColor": "green",
+    "name": "Hopper Carey",
+    "gender": "male",
+    "company": "TECHADE",
+    "email": "hoppercarey@techade.com",
+    "phone": "+1 (890) 442-3775",
+    "address": "264 Channel Avenue, Roderfield, New Hampshire, 1009",
+    "birthday": "2014-01-25T03:16:56 -02:00",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Mcdaniel Harvey"
+      },
+      {
+        "id": 1,
+        "name": "Ladonna Webb"
+      },
+      {
+        "id": 2,
+        "name": "Kate Walton"
+      }
+    ],
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "5d35a6e4c68ff60b78bc052a",
+    "index": 6,
+    "isActive": false,
+    "balance": "$2,731.65",
+    "picture": "http://placehold.it/32x32",
+    "age": 34,
+    "eyeColor": "blue",
+    "name": "Dena Everett",
+    "gender": "female",
+    "company": "MIRACLIS",
+    "email": "denaeverett@miraclis.com",
+    "phone": "+1 (884) 580-2627",
+    "address": "542 Applegate Court, Rivera, Washington, 4873",
+    "birthday": "2014-05-23T01:12:06 -03:00",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Blanchard Pearson"
+      },
+      {
+        "id": 1,
+        "name": "Baldwin Bush"
+      },
+      {
+        "id": 2,
+        "name": "Kaufman Bentley"
+      }
+    ],
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "5d35a6e4d6476b358483de81",
+    "index": 7,
+    "isActive": false,
+    "balance": "$2,980.13",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "eyeColor": "green",
+    "name": "Bowen Ramirez",
+    "gender": "male",
+    "company": "ECRATIC",
+    "email": "bowenramirez@ecratic.com",
+    "phone": "+1 (954) 410-3154",
+    "address": "396 Hart Place, Germanton, Texas, 6286",
+    "birthday": "2018-12-26T06:51:04 -02:00",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Bird Hughes"
+      },
+      {
+        "id": 1,
+        "name": "Karina Jacobs"
+      },
+      {
+        "id": 2,
+        "name": "Puckett Cantu"
+      }
+    ],
+    "favoriteFruit": "banana"
+  }
+]
